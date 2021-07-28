@@ -1,0 +1,8 @@
+---------------------------------
+Weather Status of Mavelikkara city ||  28 Jul 2021 | 06:55:00 PM 
+-----------------------------------
+Temperature : 26.460000000000036 in degree Celcius: 
+Weather : broken clouds 
+Humiity :79 % 
+Wind speed : 3.05 kmph 
+Date and time : 28 Jul 2021 | 06:55:00 PM
